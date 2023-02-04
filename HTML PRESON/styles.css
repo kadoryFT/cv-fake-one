@@ -1,0 +1,28 @@
+ /*************************************TAG SELECTORES****************************/
+ 
+  body{
+    background-color: #F2CD5C;}
+  hr{
+    border-color: #400E32;
+    border-style: dotted none none;
+    border-width: 4px;
+    width: 10%;} 
+  img {width: 150px;}
+  h1 {color:#A61F69;}
+  h2 {color:#A61F69;}
+  h3 {color:#A61F69;}
+
+  /*************************************CLASS SELECTORES****************************/
+/*
+. what we name the class { 
+  backround-color: green;
+}
+*/
+
+
+
+  /*************************************ID SELECTORES****************************/
+  /*
+  # what we name the id {
+    backround-color: green;
+  }
